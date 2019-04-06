@@ -1,5 +1,5 @@
 # GMS
-This is my personal project developed as a class assignment.
+This is my personal project, developed as a class assignment.
 <br />
 web app features:<br />
   -Gym Manager login<br />
